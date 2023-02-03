@@ -1,2 +1,6 @@
 # 内容：自定义白名单
 DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN,myip4.ipip.net
+DOMAIN,ddns.oray.com
+DOMAIN,ip.3322.ne
