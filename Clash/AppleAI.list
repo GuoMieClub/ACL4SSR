@@ -1,11 +1,6 @@
-rules:
-DOMAIN-SUFFIX,gateway.icloud.com,AppleIntelligence
-DOMAIN-SUFFIX,apple-relay.apple.com,AppleIntelligence
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com,AppleIntelligence
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,AppleIntelligence
-DOMAIN-SUFFIX,guzzoni.apple.com,AppleIntelligence
-DOMAIN-SUFFIX,cp4.cloudflare.com,AppleIntelligence
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,AppleIntelligence
-DOMAIN-SUFFIX,smoot.apple.com,AppleIntelligence
-DOMAIN-SUFFIX,apple-relay.akamaized.net,AppleIntelligence
-DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,AppleIntelligence
+- DOMAIN-SUFFIX,guzzoni.apple.com
+- DOMAIN-SUFFIX,apple-relay.apple.com
+- DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+- DOMAIN-SUFFIX,apple-relay.cloudflare.com
+- DOMAIN-SUFFIX,apple-relay.akamaized.net
+- DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
